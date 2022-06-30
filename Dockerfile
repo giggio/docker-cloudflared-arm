@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:22.04
 LABEL maintainer="giggio@giggio.net"
 RUN apt-get update && apt-get install -y wget dnsutils
 RUN wget https://github.com/cloudflare/cloudflared/releases/download/2022.6.3/cloudflared-linux-arm; \
