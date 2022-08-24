@@ -2,7 +2,6 @@
 
 [![Docker Stars](https://img.shields.io/docker/stars/giggio/cloudflared-arm.svg)](https://hub.docker.com/r/giggio/cloudflared-arm/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/giggio/cloudflared-arm.svg)](https://hub.docker.com/r/giggio/cloudflared-arm/)
-[![ImageLayers](https://images.microbadger.com/badges/image/giggio/cloudflared-arm.svg)](https://microbadger.com/#/images/giggio/cloudflared-arm)
 
 This is just [Cloudflared](https://developers.cloudflare.com/argo-tunnel) in a container.
 
