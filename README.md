@@ -1,5 +1,9 @@
 # Cloudflared for Docker on ARM (RaspberryPi)
 
+# DON'T USE THIS REPO ANYMORE
+
+Cloudflare now is publishing arm64 versions of `cloudflare/cloudflared` on Docker Hub. Use that.
+
 [![Docker Stars](https://img.shields.io/docker/stars/giggio/cloudflared-arm.svg)](https://hub.docker.com/r/giggio/cloudflared-arm/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/giggio/cloudflared-arm.svg)](https://hub.docker.com/r/giggio/cloudflared-arm/)
 
